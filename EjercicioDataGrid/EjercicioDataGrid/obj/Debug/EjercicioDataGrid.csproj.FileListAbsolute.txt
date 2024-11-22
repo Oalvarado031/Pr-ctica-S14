@@ -1,0 +1,11 @@
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\bin\Debug\EjercicioDataGrid.exe.config
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\bin\Debug\EjercicioDataGrid.exe
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\bin\Debug\EjercicioDataGrid.pdb
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\obj\Debug\EjercicioDataGrid.csproj.AssemblyReference.cache
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\obj\Debug\EjercicioDataGrid.csproj.SuggestedBindingRedirects.cache
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\obj\Debug\EjercicioDataGrid.Properties.Resources.resources
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\obj\Debug\EjercicioDataGrid.csproj.GenerateResource.cache
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\obj\Debug\EjercicioDataGrid.csproj.CoreCompileInputs.cache
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\obj\Debug\EjercicioDataGrid.exe
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\obj\Debug\EjercicioDataGrid.pdb
+C:\Users\labc201\Desktop\EjercicioDataGrid\EjercicioDataGrid\obj\Debug\EjercicioDataGrid.Form1.resources
